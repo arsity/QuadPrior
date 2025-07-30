@@ -1,0 +1,26 @@
+torch==1.13.1
+torchvision
+numpy < 2.0
+albumentations
+opencv-contrib-python
+imageio
+imageio-ffmpeg
+pytorch-lightning < 2.0
+omegaconf
+test-tube
+streamlit
+einops
+transformers
+webdataset
+kornia
+open_clip_torch
+invisible-watermark
+streamlit-drawable-canvas
+torchmetrics < 1.0
+timm
+addict
+yapf
+prettytable
+safetensors
+basicsr
+deepspeed
